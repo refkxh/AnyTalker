@@ -75,16 +75,17 @@ pip install ninja
 pip install flash_attn==2.8.1 --no-build-isolation
 ```
 #### 4. FFmeg installation
-```
-conda install -c conda-forge ffmpeg
+
+```sh
+apt-get install ffmpeg
 ```
 or
-```
+```sh
 yum install ffmpeg ffmpeg-devel
 ```
 or
-```
-apt-get install ffmpeg
+```sh
+conda install -c conda-forge ffmpeg
 ```
 ### 🧱Model Preparation
 
