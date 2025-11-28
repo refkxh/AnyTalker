@@ -122,7 +122,7 @@ python generate_a2v_batch_multiID.py \
 		--ckpt_dir="./checkpoints/Wan2.1-Fun-1.3B-Inp" \
 		--task="a2v-1.3B" \
 		--size="832*480" \
-		--batch_gen_json="/nfs/zzzhong/codes/virtual_human/AnyTalker/input_example/good.json" \
+		--batch_gen_json="./AnyTalker/input_example/good.json" \
 		--batch_output="./outputs" \
 		--post_trained_checkpoint_path="./checkpoints/AnyTalker/1_3B-single-v1.pth" \
 		--sample_fps=24 \
