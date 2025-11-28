@@ -70,8 +70,6 @@ checkpoints/
 data/
 
 scripts/
-*.jpg
-*.png
 logs/
 
 checkpoints
