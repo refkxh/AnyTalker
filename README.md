@@ -46,7 +46,7 @@
 </table>
 
 ## 🔥 Latest News
-🔥 *Nov 30, 2025:* We release the **AnyTalker** [weights](#), [inference code](#), [technique-report](#) and [project page](https://hkust-c4g.github.io/AnyTalker-homepage).
+🔥 *Nov 28, 2025:* We release the **AnyTalker** [weights](#), [inference code](#), and [project page](https://hkust-c4g.github.io/AnyTalker-homepage).
 
 ## 📑 Todo List
 - [x] Inference code
