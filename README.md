@@ -50,11 +50,16 @@
 
 📖 *Dec 1, 2025:* We release the [technical report](https://arxiv.org/abs/2511.23475).
 
+🤗 *Dec 5, 2025:* We release the [Gradio Demo](https://github.com/HKUST-C4G/AnyTalker?tab=readme-ov-file#Gradio-Demo). 
+
+
+
 ## 📑 Todo List
 - [x] Inference code
 - [x] 1.3B stage 1 checkpoint (trained exclusively on single-person data)
 - [x] Benchmark for evaluate Interactivity 
 - [x] Technical report 
+- [x] Gradio Demo
 - [ ] 14B model (coming soon to the [Video Rebirth](https://www.videorebirth.com/)'s creation platform)
 
 ## Quick Start
@@ -178,6 +183,18 @@ sh infer_a2v_1_3B_batch.sh
   <img src="assets/pad.png"><br>
   Illustration of “pad” mode for audio inputs.
 </p> 
+
+### Gradio Demo
+You can customize your inputs and parameters via the web interface by running the following command:
+```sh
+python3 app.py
+```
+<p align="center">
+  <img src="assets/gradio.png"><br>
+</p> 
+
+
+
 
 ## Benchmark
 We provide the benchmark used in our paper to evaluate *Interactivity*, including the dataset and the metric computation script.
