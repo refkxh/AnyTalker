@@ -50,7 +50,7 @@
 
 📖 *Dec 1, 2025:* We release the [technical report](https://arxiv.org/abs/2511.23475).
 
-🤗 *Dec 5, 2025:* We release the [Gradio Demo](https://github.com/HKUST-C4G/AnyTalker?tab=readme-ov-file#Gradio-Demo). 
+🤗 *Dec 5, 2025:* We release the [gradio demo](https://github.com/HKUST-C4G/AnyTalker?tab=readme-ov-file#Gradio-Demo). 
 
 
 
