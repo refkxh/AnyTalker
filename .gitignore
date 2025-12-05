@@ -67,11 +67,8 @@ htmlcov/
 
 outputs/
 checkpoints/
-data/
-
 scripts/
 logs/
-
 checkpoints
 output
 benchmark/frames
